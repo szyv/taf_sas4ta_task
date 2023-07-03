@@ -1,5 +1,5 @@
-import test from '../utils/base_test';
-import { expect } from '@playwright/test';
+import test from '../utils/baseTest';
+import { expect } from '@playwright/test'
 import ReportUtils from '../utils/screenshotUtils';
 
 

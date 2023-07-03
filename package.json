@@ -5,8 +5,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx playwright test --config=playwright.config.ts",
-    "test:e2e": "cucumber-js --require cucumber.conf.ts --require tests/features/definitions/**/*.ts --format @cucumber/pretty-formatter"
+    "test": "npx playwright test --config=playwright.config.ts"
   },
   "keywords": [],
   "author": "Serhii Zymarev",
